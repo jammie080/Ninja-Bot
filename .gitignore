@@ -1,0 +1,10 @@
+# Ignore env file
+*.env
+
+# Ignore pyc file
+*.pyc
+
+# Ignore py
+test.py
+
+debug.log
